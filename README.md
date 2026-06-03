@@ -219,3 +219,8 @@ Through this project, you will gain experience in:
 * Real-World Database Development
 
 ---
+👨‍💻 Author
+
+Santan Perumalla
+
+Aspiring Data Analyst | SQL Enthusiast 
