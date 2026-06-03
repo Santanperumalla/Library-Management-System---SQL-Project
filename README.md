@@ -219,13 +219,3 @@ Through this project, you will gain experience in:
 * Real-World Database Development
 
 ---
-
-## 👨‍💻 Author
-
-**Santan**
-
-Aspiring Data Analyst | SQL Enthusiast | GitHub Portfolio Projects
-
----
-
-## ⭐ If you found this project useful, consider giving it a star on GitHub!
